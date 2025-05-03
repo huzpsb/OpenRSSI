@@ -42,11 +42,24 @@ Main： 测试程序。
 请开启issue，看到了会回...但是不保证及时。  
 
 ## 公式与引用
-为了方便论文人在自己的论文中引用，我还是写一下（唉我真是个大善人）  
+为了方便论文人在自己的论文中引用，我还是写一下  
+这些公式目前不属于任何论文的一部分，包括下面提到的那篇（唉我真是个大善人）  
 LaTeX格式的，抄吧（  
 
 Citation：  
 AlvinChou @ WHU, Licensed under MIT.  
+```bib
+@article{202504.0345,
+	doi = {10.20944/preprints202504.0345.v1},
+	url = {https://doi.org/10.20944/preprints202504.0345.v1},
+	year = 2025,
+	month = {April},
+	publisher = {Preprints},
+	author = {Theresa Chen},
+	title = {OpenRSSI: Zero-Drift Motion Capture Using Consumer-Grade UWB Hardware},
+	journal = {Preprints}
+}
+```
 
 目标节点初始位置通过加权基站位置计算：
 
